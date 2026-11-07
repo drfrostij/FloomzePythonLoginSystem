@@ -1,6 +1,6 @@
 # 🔐 Python Secure Login System
 
-A Python-based login and registration system built with **Tkinter**, designed to demonstrate secure user authentication and credential handling.
+A Python-based login and registration system built with **Tkinter** AND **BCRYPT** designed to demonstrate secure user authentication and credential handling.
 
 ## ✦ Features
 
